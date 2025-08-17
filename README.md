@@ -1,5 +1,6 @@
 ## Hello and welcome 👋
 
+**I build data systems that transform how organizations make decisions.**
 
 🔭 Currently working on cloud migration while maintaining ML implementation expertise.
 
@@ -17,9 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pattnaik-upasana)
-
 
 ## 🛠️ Tech Stack
 
