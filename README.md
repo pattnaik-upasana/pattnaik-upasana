@@ -2,7 +2,7 @@
 
 **I build data systems that transform how organizations make decisions.**
 
-🔭 Currently working on cloud migration while maintaining ML implementation expertise.
+🔭 Currently working on cloud migrations.
 
 <!--
 **pattnaik-upasana/pattnaik-upasana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
