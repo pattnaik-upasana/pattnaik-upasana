@@ -62,6 +62,5 @@ International Conference on Energy, Communication, Data Analytics and Soft Compu
 ## Connect 📫
 
 **LinkedIn:** [linkedin.com/in/pattnaik-upasana](https://www.linkedin.com/in/pattnaik-upasana/)  
-**Email:** upasana.pattnaik23@gmail.com  
-**Twitter:** [@oops3daisy](https://twitter.com/oops3daisy)  
+**Email:** upasana.pattnaik23@gmail.com
 **Medium:** [@upasana.pattnaik23](https://medium.com/@upasana.pattnaik23)
